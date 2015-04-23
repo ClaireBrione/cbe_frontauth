@@ -1,0 +1,19 @@
+h1. cbe_frontauth
+
+This client-side plugin lets your users (or you) manage backend connection from frontend, i.e. connect and disconnect as they (you) would do from backend.
+You can thus make things visible and open actions for connected users only.
+
+A few examples (in french) can be found in the "demonstration page":http://www.clairebrione.com/demo-cbe_frontauth.
+
+h2. Features
+
+* automatically generate a login/logout box...
+* ... or independent login or logout forms and links
+* choose if th user must connect with his/her username, or email address, or one of both
+* show/hide content depending on whether a user is connected or not (see protect parts of a page)
+* set automatic redirections after login and/or logout
+* optional: define your own default values for login/logout invites and button/link labels, define login method
+* override these values anywhere in the page if you need to
+* also provides additional tags to ease scripter's life
+* and hooks for callback functions primarily in order to reset or change user's password
+
