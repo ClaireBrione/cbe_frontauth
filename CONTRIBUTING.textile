@@ -1,0 +1,11 @@
+You are all very welcome to improve, fix bugs, or contribute in any other way.
+
+Please follow this process:
+
+* fork the repository
+* make your changes
+* update the helpfile if applicable
+* when you're done, generate a php source code and a txt installation file ("ied_plugin_composer":https://github.com/Bloke/ied_plugin_composer is fine)
+* submit a pull request
+
+Thank you!

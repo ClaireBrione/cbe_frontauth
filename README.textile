@@ -17,3 +17,6 @@ h2. Features
 * also provides additional tags to ease scripter's life
 * and hooks for callback functions primarily in order to reset or change user's password
 
+h2. Contributing
+
+See "CONTRIBUTING":https://github.com/ClaireBrione/cbe_frontauth/blob/master/CONTRIBUTING.textile for details.
